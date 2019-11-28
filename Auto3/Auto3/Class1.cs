@@ -10,5 +10,6 @@ namespace Auto3
 
     {
         int x = 4;
+        int y = 6;
     }
 }
